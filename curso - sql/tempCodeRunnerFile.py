@@ -1,0 +1,1 @@
+print('--------AGDM CURSOS-------- \n1 - Matrícula \n2 - Atualizar matrícula \n3 - Avaliação \n4 - Apagar dados cadastrais \n---------------------------')
